@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-app",
+  "name": "rohit_bansal_protfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -50,5 +50,9 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.2.0"
-  }
+  },
+  "description": "<h2 align=\"center\">\r   <img src=\"https://github.com/mayankagarwal09/dev-portfolio/blob/master/images/dev-portfolio.gif\" alt=\"Dev Portfolio\" />\r   <br>\r </h2>",
+  "main": ".eslintrc.js",
+  "author": "Rohit Bansal 8353039895",
+  "license": "ISC"
 }
