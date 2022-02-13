@@ -1,33 +1,31 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Mern Stack Developer",
+            "subtitle": "Saffron Chariote Technology",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Working on 3 Live Projects "
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "01/2022 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "React js ",
+            "subtitle": "Rex Web Solution",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Worked on React js , Js , Redux "
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "09/2021 – 12/2021"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Web Designing",
+            "subtitle": "Infowiz Pvt Ltd",
+            "workType": "Internship",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Worked on Html , Css , Bootstrap , PhotoShop."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "03/2021 – 08/2021"
         }
     ]
 }

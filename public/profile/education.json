@@ -1,19 +1,32 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
+            "title": "Aug 2016 - Aug 2020",
             "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "cardSubtitle":"Shoolini University, Solan HP",
+            "cardDetailedText": "CGPA -6.9",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Apr 2016",
+            "cardTitle": "Intermediate",
+            "cardSubtitle":"Shanti Niketan Sen. Sec Public School, Joginder Nager HP",
+            "cardDetailedText": "Marks - 69%",
+            "icon": {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "April 2014",
+            "cardTitle": "Matric",
+            "cardSubtitle": "Jawahar Navodaya Vidyalaya ,  Bilaspur HP",
+            "cardDetailedText": "Marks - 6.6",
+            "icon": {
+                "src": "images/education/lorem-ipsum.png"
+            }
         }
+
     ]
 }
