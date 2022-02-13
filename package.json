@@ -54,5 +54,13 @@
   "description": "<h2 align=\"center\">\r   <img src=\"https://github.com/mayankagarwal09/dev-portfolio/blob/master/images/dev-portfolio.gif\" alt=\"Dev Portfolio\" />\r   <br>\r </h2>",
   "main": ".eslintrc.js",
   "author": "Rohit Bansal 8353039895",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitbansal11/myPortfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rohitbansal11/myPortfolio/issues"
+  },
+  "homepage": "https://github.com/rohitbansal11/myPortfolio#readme"
 }
