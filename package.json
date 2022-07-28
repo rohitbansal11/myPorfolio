@@ -1,7 +1,6 @@
 {
   "name": "rohit_bansal_protfolio",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -51,13 +50,8 @@
     "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.2.0"
   },
-  "description": "<h2 align=\"center\">\r   <img src=\"https://github.com/mayankagarwal09/dev-portfolio/blob/master/images/dev-portfolio.gif\" alt=\"Dev Portfolio\" />\r   <br>\r </h2>",
-  "main": "index.jsx",
   "author": "Rohit Bansal 8353039895",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rohitbansal11/myPortfolio.git"
-  }
+ 
   
 }
